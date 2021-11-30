@@ -1,0 +1,19 @@
+body, button, input {
+    font-family: 'IBM Plex Sans', sans-serif;
+    letter-spacing: 1px;
+}
+
+header {
+    padding: 25px;
+    text-align: center;
+}
+
+.nameBtn {
+    padding: 10px 14px;
+    width: 120px;
+    font-size: 17px;
+    cursor: pointer;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+}
